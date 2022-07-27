@@ -14,7 +14,7 @@ public class IFeleseif
         } else if(i<0)
         {
             System.out.println("negative");
-            System.out.println("Manish");
+           // System.out.println("Manish");
         }
     //   else if(!(i>=0)&&(i<=-0))
       // {
